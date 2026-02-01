@@ -1,0 +1,9 @@
+blah blah blah
+
+just a standard text file that Im going to fill with random x86 register values
+
+
+HKEY_LOCAL_MAHCINE_HARDWARE
+
+REG_SZ - 01 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 21
+REG_RESOURCE_LIST - 01 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00  00 22
